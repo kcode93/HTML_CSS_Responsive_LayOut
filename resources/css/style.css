@@ -6,7 +6,7 @@ body{
 }
 
 div{
-  /*border: 1px solid #000000;*/
+  /*border: 1px solid #000000*/;
 }
 
 /*******Global******/
@@ -33,6 +33,13 @@ ul{
   cursor: pointer;
 }
 
+.shadow{
+  padding: 15px;
+  background-color: #35424a;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 /******Header*******/
 header{
   background: #35424a;
@@ -149,6 +156,26 @@ header .highlight, header .current a{
   font-weight: bold;
   margin-bottom: 10px;
 }
+
+/*****main********/
+#main .container{
+  display: flex;
+  justify-content: space-around;
+}
+
+#main-col{
+  width: 65%
+}
+
+#sidebar{
+  width: 20%;
+}
+
+.page-title{
+  font-size: 25px;
+  font-weight: bold;
+}
+
 
 /******footer******/
 footer{
