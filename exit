@@ -1,0 +1,35 @@
+[33mcommit 5fdc47a66b287c29642927aeb9f09f06c405d54c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Kenneth <kennethgarcia12@hotmail.com>
+Date:   Sun Dec 2 23:55:14 2018 -0800
+
+    added media query for <= 768px (tablet) screens
+
+[33mcommit 5e8a46e217e79590f75e1ff56d8df0c972aea5f0[m
+Author: Kenneth <kennethgarcia12@hotmail.com>
+Date:   Thu Nov 29 12:22:47 2018 -0800
+
+    finished the services.html, need to add responsive media queries
+
+[33mcommit a328b5a69c2ee1f4c3c7109735d785dbac165ade[m
+Author: Kenneth <kennethgarcia12@hotmail.com>
+Date:   Thu Nov 29 11:59:53 2018 -0800
+
+    added about.html and services.html, finished about.html, and fix some links issues regarding markup
+
+[33mcommit 0d68914e426884557e0ec4c162d17330ae105507[m
+Author: Kenneth <kennethgarcia12@hotmail.com>
+Date:   Thu Nov 29 11:13:40 2018 -0800
+
+    finished home page index.html
+
+[33mcommit ba3a2c9fee52d4fe8c8d429b1dd263fece88d644[m
+Author: Kenneth <kennethgarcia12@hotmail.com>
+Date:   Thu Nov 29 00:06:35 2018 -0800
+
+    finished index.html markup, css styling pending
+
+[33mcommit ba1d5835d4ae5f7da56e643033fca3448458222f[m
+Author: Kenneth <kennethgarcia12@hotmail.com>
+Date:   Wed Nov 28 15:51:33 2018 -0800
+
+    initial Commit
