@@ -25,7 +25,7 @@ ul{
   height: 38px;
   background-color: #e8491d;
   border: none;
-  padding: 0 20px; 0 20px;
+  padding: 0 20px;
   color: #ffffff;
 }
 
@@ -147,6 +147,10 @@ header .highlight, header .current a{
   height: 150px;
 }
 
+.box p{
+  padding: 1rem;
+}
+
 #cssImg{
   width: 110px;
 }
@@ -209,21 +213,23 @@ footer{
 
 
 /*Media Queries*/
-@media (max-width: 768px){
-  #navigation, #newsletter .container{
+@media (max-width: 700px){
+  .container{
     display: flex;
     flex-direction: column;
     justify-content: center;
-  }
-
-  nav ul{
-    display: flex;
+    align-items: center;
     text-align: center;
-    justify-content: space-between;
   }
 
-  #newsletter form input[type="email"], button{
-    width: 100%;
+  header nav{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #email_form{
+    margin-left: auto;
+    margin-right: auto;
   }
 
   #newsletter h1, input, button{
@@ -251,6 +257,10 @@ footer{
 
   #main-col, #sidebar{
     width: 100%;
+  }
+
+  #btnSend{
+    width: 80%;
   }
 
   footer{
